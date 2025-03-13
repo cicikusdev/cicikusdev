@@ -20,15 +20,18 @@ Here are some ideas to get you started:
 * As It can be seen under my profile picture -and yes; I am 20 years old, not 15. Born in 2004- my name is Umay (or cicikus in some cases as a username).
 * I am a 3rd year Computer Engineering Student in ESOGÜ(Eskişehir Osmangazi University). I really do have the interest for game development and AI. 
 ## 🎉Interests? More Like Obsessions
-* 🎹 Piano Player Extraordinaire – Been pressing keys for 14 years, even in the right order.
-* 🎮 Game Enthusiast – I don’t just play games; I analyze, break, and sometimes want to mod them.
-* 💻 Code Conjurer – Writing code that works… eventually.
-* 🔥 Master of Rabbit Holes – If something intrigues me, I will deep dive until I know unnecessary details.
-* 🧠 Brainstorming Addict – My mind = an infinite while loop of ideas, some of which make sense.
+* Piano Player Extraordinaire – Been pressing keys for 14 years, even in the right order.
+* About Games – I don’t just play games; I analyze, break, and sometimes want to mod them.
+* Coding – Writing code that works… eventually.
+* Rabbit Holes – If something intrigues me, I will deep dive until I know unnecessary details.
+* Brainstorm – My mind = an infinite while loop of ideas, some of which make sense.
 ### 🚖Languages I Speak (Both Categories)
 * **Human Languages:** Turkish(Native), English(C1), German(A1) and so much more as in the beginner level.
 *  **Machine Languages:**
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,angular,spring,ts,postgres,python,nodejs)](https://skillicons.dev)
+
+<!--
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -44,6 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
+-->
 
 ### 📫 How To Reach Me For My Absolute Perfection
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umayece0@gmail.com)
