@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Who am I?
 * Welcome to the digital chaos I call my mind; where ideas run wild, and code occasionally works. Here is your very developer Umay.
 ## ⛩About Me, But What About Me?
-* As It can be seen under my profile picture -and yes; I am 20 years old, not 15. Born in 2004- my name is Umay (or cicikus in some cases as a username).
+* As It can be seen under my profile picture -and yes; I am 21 years old, not 15. Born in 2004- my name is Umay (or cicikus in some cases as a username).
 * I am a 3rd year Computer Engineering Student in ESOGÜ(Eskişehir Osmangazi University). I really do have the interest for game development, AI and cyber security. 
 ## 🎉Interests? More Like Obsessions
 * Piano Player Extraordinaire – Been pressing keys for 14 years, even in the right order.
