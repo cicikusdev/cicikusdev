@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 * As It can be seen under my profile picture -and yes; I am 21 years old, not 15. Born in 2004- my name is Umay (or cicikus in some cases as a username).
 * I am a 4th year Computer Engineering Student in ESOGÜ(Eskişehir Osmangazi University). I really do have the interest for game development, AI and cyber security. 
 ## 🎉Interests? More Like Obsessions
-* Piano Player Extraordinaire – Been pressing keys for 14 years, even in the right order.
-* About Games – I don’t just play games; I analyze, break, and sometimes want to mod them.
-* Coding – Writing code that works… eventually.
-* Rabbit Holes – If something intrigues me, I will deep dive until I know unnecessary details.
-* Brainstorm – My mind = an infinite while loop of ideas, some of which make sense.
+* Been pressing piano keys for 14 years, even in the right order.
+* I don’t just play games; I analyze, break, and sometimes want to mod them.
+* Writing code that works… eventually.
+* If something intrigues me, I will deep dive until I know unnecessary details.
+* My mind, an infinite while loop of ideas, some of which make sense.
 ### 🚖Languages I Speak (Both Categories)
-* **Human Languages:** Turkish(Native), English(C1), German(A1) and so much more as in the beginner level.
+* **Human Languages:** Turkish(Native), English(C1), German(A2) and so much more as in the beginner level.
 *  **Machine Languages:**
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,angular,spring,ts,postgres,python,nodejs)](https://skillicons.dev)
