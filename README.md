@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * I don’t just play games; I analyze, break, and SOMETIMES want to mod them.
 * Writing code that works… eventually.
 * If something intrigues me, I will deep dive until I know unnecessary details.
-* Don't worry, many of my ideas make sense.
+* Don't worry, most of my ideas make sense.
 * Pentesting is fun.
 ### Languages I Speak (Both Categories)
 * **Human Languages:** Turkish(Native), English(C1), German(A2) and so much more as in the beginner level.
