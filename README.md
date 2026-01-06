@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * Pentesting is fun.
 ### Languages I Speak (Both Categories)
 * **Human Languages:** Turkish(Native), English(C1), German(A2) and so much more as in the beginner level.
-*  **Machine Languages:**
+*  **Clanker Languages:**
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,angular,spring,ts,postgres,python,nodejs)](https://skillicons.dev)
 
