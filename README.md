@@ -15,7 +15,7 @@
 </div>
 <br>
 <div>
-  <img align="right" src="assets/markiplier-tiktok-dance-markiplier-dance.gif" width="400" alt="Vibe Image" />
+  <img align="right" src="assets/markiplier-tiktok-dance-markiplier-dance.gif" width="200" alt="Vibe Image" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=FF007F&center=false&vCenter=false&width=400&lines=>>>+CONSOLE;>>>+ABOUT_ME" alt="CONSOLE" />
 
