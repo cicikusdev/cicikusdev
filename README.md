@@ -32,7 +32,6 @@
   <br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=00FFCC&center=false&vCenter=false&width=400&lines=>>>+INVENTORY;>>>+THINGS_I_KNOW" alt="INVENTORY" />
-  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,unity,angular,react,spring,py,mysql&theme=dark" alt="Tech Stack" />
   </a>
