@@ -6,7 +6,6 @@
   ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟨⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 </div>
 
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -14,7 +13,6 @@
   </a>
 </div>
 
-<br><br>
 
 <div>
   <img align="right" src="assets/markiplier-tiktok-dance-markiplier-dance.gif" width="280" alt="Vibe Image" />
@@ -31,7 +29,6 @@
   >
   > Make yourself at home if you are going to check out my repositories and my ultra-amazing projects.
 
-  <br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=00FFCC&center=false&vCenter=false&width=400&lines=>>>+INVENTORY" alt="INVENTORY" />
   <br>
@@ -39,7 +36,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,unity,angular,react,spring,py,mysql&theme=dark" alt="Tech Stack" />
   </a>
 
-  <br><br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=8A2BE2&center=false&vCenter=false&width=400&lines=>>>+COMM_LINK" alt="COMM_LINK" />
   <br>
@@ -61,7 +57,6 @@
   </p>
 </div>
 
-<br>
 
 <div align="center" style="font-size: 1.2em; line-height: 1.1;">
   ⬛⬛⬛⬛⬛⬛⬛🟪⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛<br>
