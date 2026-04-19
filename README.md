@@ -29,15 +29,11 @@
   >
   > Make yourself at home if you are going to check out my repositories and my ultra-amazing projects.
 
-  <br><br>
-
  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=00FFCC&center=false&vCenter=false&width=400&lines=>>>+INVENTORY;>>>+THINGS_I_KNOW" alt="INVENTORY" />
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,unity,angular,react,spring,py,mysql&theme=dark&perline=8" alt="Tech Stack" />
 </a>
-
-  <br><br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=8A2BE2&center=false&vCenter=false&width=400&lines=>>>+COMM_LINK;>>>+CONTACT_ME" alt="COMM_LINK" />
   <br>
@@ -58,8 +54,6 @@
     <i>p.s. just a friendly reminder that no matter how much you optimize your life, you can still get one-shotted by a random pigeon. stay paranoid, we might be in a simulation.</i>
   </p>
 </div>
-
-<br>
 
 <div align="center" style="font-size: 1.2em; line-height: 1.1; white-space: nowrap;">
   ⬛⬛⬛⬛⬛⬛🟪⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟥⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟪⬛⬛⬛⬛⬛⬛⬛<br>
