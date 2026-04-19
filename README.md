@@ -14,6 +14,10 @@
   </a>
 </div>
 <br>
+<div align="center" style="font-size: 1.2em; letter-spacing: 2px;">
+ ◈ ━━━━━━━━━━━━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
+</div>
+<br>
 <div>
   <img align="right" src="assets/markiplier-tiktok-dance-markiplier-dance.gif" width="300" alt="Vibe Image" />
 
@@ -48,7 +52,10 @@
 
 <br clear="both">
 <br>
-
+<div align="center" style="font-size: 1.2em; letter-spacing: 2px;">
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━━ ◈ ━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
+</div>
+<br>
 <div align="center">
   <p style="font-size: 0.8em; color: gray;">
     <i>p.s. just a friendly reminder that no matter how much you optimize your life, you can still get one-shotted by a random pigeon. stay paranoid, we might be in a simulation.</i>
