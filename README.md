@@ -32,6 +32,8 @@
   > For those who are curious about my hobbies, they include playing piano, playing video games and being constantly sleep deprived. 
   >
   > Make yourself at home if you are going to check out my repositories and my ultra-amazing projects.
+  >
+  > CURRENTLY DEVELOPING BEAT A BOO! - WISHLIST ON STEAM NOW!!
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&color=00FFCC&center=false&vCenter=false&width=400&lines=>>>+INVENTORY;>>>+THINGS_I_KNOW" alt="INVENTORY" />
 <br>
